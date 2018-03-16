@@ -1,5 +1,6 @@
 # ContactInfoChallenge
 Challenge Question for internship
+
 Since I have been given this task to test my skills and help further developed the internship program's interview process I have decided to show my creativity by showing three possible ways to "code" the challenge. The first way, which is named "ContactInfoVersion1", is what I call the lazy programmers solution. 
   It calls it this because the lazy programmer would recognize that there is a problem when analyzing a name like Arthur Smith and the occupation Software Engineering, to a regular expression this might look like two names, so in my version 1, I do nothing to combat this problem, hence the name Lazy.
   The Second version helps combat the name problem by asking the user to confirm that the name is indeed correct and is a name. This is an okay solution, but the application might not be able to ask for user input, instead it might try to use this program as an automatic reader and want to automatically make a new contact without user input slowing it down.
