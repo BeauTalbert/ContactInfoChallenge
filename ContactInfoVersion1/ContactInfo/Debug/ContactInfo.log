@@ -1,0 +1,5 @@
+﻿  ContactInfo.cpp
+c:\users\user\documents\entegra\challenge question\contactinfoversion1\contactinfo\contactinfo.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Generating Code...
+  ContactInfo.vcxproj -> C:\Users\User\Documents\Entegra\Challenge Question\ContactInfoVersion1\Debug\ContactInfo.exe
